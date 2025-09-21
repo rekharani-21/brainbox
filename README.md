@@ -85,7 +85,7 @@ Backend: http://localhost:5001/api
 Add a Web Service in Render pointing to this repo.
 
 Build Command:
-npm install --prefix backend
+npm run build --prefix backend
 
 Start Command:
 npm run start --prefix backend
